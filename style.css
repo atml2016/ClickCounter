@@ -40,6 +40,12 @@ body {
     background-color: #28a745;
     color: white;
   }
+
+  #decrementBtn {
+    background-color: #ffc107;
+    color: white;
+  }
+  
   
   #resetBtn {
     background-color: #dc3545;
